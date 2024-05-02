@@ -4,5 +4,7 @@
 * [Adobe Colors](https://color.adobe.com/pt/)
 * [Paletton](https://paletton.com/)
 * [Colorzilla](https://www.colorzilla.com/)
+* Web Developer (Extensão)
+* Fonts Ninja (Extensão)
 * Gimp - Editor de Imagem
 * HandBreak - Conversor de audio
