@@ -8,3 +8,9 @@
 * Fonts Ninja (Extensão)
 * Gimp - Editor de Imagem
 * HandBreak - Conversor de audio
+* Fontes
+    - Dafont
+    - What Font is
+    - Fonts squirel
+    - My fonts
+    - google fonts
