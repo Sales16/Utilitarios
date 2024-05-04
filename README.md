@@ -1,4 +1,5 @@
-# Sites, Apps, Exe úteis para programação e outros.
+# Complementos úteis
+Sites, aplicativos, extensões que podem ser úteis para desenvolvedores.
 
 * [Coolors](https://coolors.co/)
 * [Adobe Colors](https://color.adobe.com/pt/)
